@@ -1,16 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=CHANGBOKLEE&fontAlign=70) <div>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBuppong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>     
- <h3> PORTFOLIO </h3>
+ <h3> PORTFOLIO :point_right: </h3>
  
  <h3> [TechBlog] (https://bugpong.tistory.com/).</h3> 
  
  <h3> Experience </h3>
  
-  [GDG Daejeon Staff 2019.6 ~2019.11] (https://medium.com/frontend-developers/gdg-google-i-o-extended-daejeon-2019-5ba365daf714).
+  * [GDG Daejeon Staff 2019.6 ~2019.11] (https://medium.com/frontend-developers/gdg-google-i-o-extended-daejeon-2019-5ba365daf714).
  
-  [Write BOOK 2019.7~8] (https://ridibooks.com/books/2773000026). 
+  * [Write BOOK 2019.7~8] (https://ridibooks.com/books/2773000026). 
   
-  [Cloud_Education 2021.6~11] . 
+  * [Cloud_Education 2021.6~11] (https://soldesk.com/edu/edu01_06.asp?scrID=0000000206&pageNum=2&subNum=5&ssubNum=1)
+  
  </div>
 
 <hr>
@@ -18,10 +19,13 @@
 <div>
 
 <div>
- <h4>language</h4>
+ <h4>BackEnd</h4>
 <img src="https://img.shields.io/badge/C-FFCA28?style=flat-square&logo=C&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/.HTML-E34F26?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/.CSS-1572B6?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/.javascript-F7DF1E?style=flat-square&logo=cplusplus&logoColor=white"/>
 
 </div>
 
@@ -32,7 +36,6 @@
        <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 
  </div>
-
 
  <div>
     <h4>TEAM UP</h4>
@@ -61,7 +64,6 @@
 
 <hr>
 
-
 ### Mygithub repos
 [![Changbok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Buppong)](https://github.com/Buppong/github-readme-stats)
 
@@ -73,6 +75,5 @@ changbok2453](http://mazassumnida.wtf/api/v2/generate_badge?boj=changbok2453)](h
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buppong)]
 
 
- 
-   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+ ### Coding Activity
+[![changbokLee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=changbokLee)]
