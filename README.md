@@ -75,5 +75,4 @@ changbok2453](http://mazassumnida.wtf/api/v2/generate_badge?boj=changbok2453)](h
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Buppong)]
 
 
- ### Coding Activity
-[![changbokLee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=changbokLee)]
+
