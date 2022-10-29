@@ -1,17 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=CHANGBOKLEE&fontAlign=70) <div>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBuppong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>     
- <h3> PORTFOLIO :point_right: </h3>
  
- <h3> [TechBlog] (https://buppong.github.io/)</h3> 
+ <h3> TechBlog ,PORTFOLIO :point_right: (https://buppong.github.io/)</h3> 
  
- <h3> Experience </h3>
- 
-  * [GDG Daejeon Staff 2019.6 ~2019.11] (https://medium.com/frontend-developers/gdg-google-i-o-extended-daejeon-2019-5ba365daf714).
- 
-  * [Write BOOK 2019.7~8] (https://ridibooks.com/books/2773000026). 
-  
-  * [Cloud_Education 2021.6~11] (https://soldesk.com/edu/edu01_06.asp?scrID=0000000206&pageNum=2&subNum=5&ssubNum=1)
-  
  </div>
 
 <hr>
