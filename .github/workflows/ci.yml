@@ -4,7 +4,6 @@ jobs:
   build:
     name: Build Jekyll
     runs-on: ubuntu-latest
-    container: node:14.16
     steps:
       - uses: actions/checkout@v2
       - name: Build the site in the jekyll/builder container
